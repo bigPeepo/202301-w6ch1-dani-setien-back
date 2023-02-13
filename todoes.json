@@ -1,0 +1,49 @@
+{
+  "toDoes": [
+    {
+      "id": 1,
+      "name": "Clean and organize the kitchen",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "name": "Buy groceries for the week",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "name": "Exercise for 30 minutes",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "name": "Make a dentist appointment",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "name": "Write a blog post",
+      "isDone": false
+    },
+    {
+      "id": 6,
+      "name": "Play with my cats",
+      "isDone": false
+    },
+    {
+      "id": 7,
+      "name": "Read for 30 minutes before bed",
+      "isDone": false
+    },
+    {
+      "id": 8,
+      "name": "Do a load of laundry",
+      "isDone": false
+    },
+    {
+      "id": 9,
+      "name": "Plan out next week's schedule",
+      "isDone": false
+    }
+  ]
+}
